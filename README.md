@@ -42,6 +42,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![food-recipe](https://user-images.githubusercontent.com/61186730/111904870-fbc59e00-8a6e-11eb-95d2-80b855aad094.JPG)
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
