@@ -1,3 +1,4 @@
+![food-recipe](https://user-images.githubusercontent.com/61186730/111904980-7abad680-8a6f-11eb-86b6-89f3d85602ba.JPG)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/ravibpibs/react-food-recipe).
